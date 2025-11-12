@@ -11,7 +11,7 @@ authors = [
 ]
 readme = "README.md"
 requires-python = ">=3.10"
-license = "MIT"
+license = {text = "MIT"}
 license-files = ["LICENSE.md"]
 keywords = ["signal processing", "machine learning"]
 dynamic = ["version"]
